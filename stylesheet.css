@@ -1,0 +1,144 @@
+/* fonte */
+@font-face {
+    font-family: 'hbm_serenitysanstitle';
+    src: url('fonte/hbm-serenity-sans-title-webfont.woff2') format('woff2'),
+         url('fonte/hbm-serenity-sans-title-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+/* navigation/menu */
+
+.menu {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+
+    font-family: 'hbm_serenitysanstitle'; 'sans serif';
+    font-size: 2.5em;
+    text-align: center;
+
+}
+
+.CV {
+    width: 250px;
+    height: 70px;
+
+    border-style: solid;
+    border-color: white;
+    border-radius: 20px;
+
+    padding-top: 1em;
+}
+
+.CV:hover {
+    background-image: url(Img/splatter.jpg);
+}
+
+.Web {
+    width: 250px;
+    height: 70px;
+
+    border-style: solid;
+    border-color: white;
+    border-radius: 20px;
+
+    padding-top: 1em;
+}
+
+.Web:hover{
+    background-image: url(Img/splatter.jpg);
+}
+
+.Content  {
+    width: 250px;
+    height: 70px;
+
+    border-style: solid;
+    border-color: white;
+    border-radius: 20px;
+
+    padding-top: 1em;
+}
+
+.Content:hover{
+    background-image: url(Img/splatter.jpg);
+}
+
+.Animation  {
+    width: 250px;
+    height: 70px;
+
+    border-style: solid;
+    border-color: white;
+    border-radius: 20px;
+
+    padding-top: 1em;
+}
+.Animation:hover{
+    background-image: url(Img/splatter.jpg);
+}
+
+.UI  {
+    width: 250px;
+    height: 70px;
+
+    border-style: solid;
+    border-color: white;
+    border-radius: 20px;
+
+    padding-top: 1em;
+
+}
+.UI:hover{
+   background-image: url(Img/splatter.jpg);
+}
+
+/* FONTE OG ANDET */
+
+.overskrift {
+    font-family: 'hbm_serenitysanstitle'; 'sans serif';
+    font-size: 5em;
+    text-align: center;
+
+    background-image: url(Img/banner_noname.jpg)
+
+}
+
+/* CV SIDE */
+
+.CV1{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-top: 50px;
+
+    font-family: helvetica; sans-serif;
+}
+
+.text1 {
+    margin-left: 100px;
+    margin-top: 50px;
+
+}
+
+.cvuo {
+     font-family: 'hbm_serenitysanstitle'; 'sans serif';
+    font-size: 3em;
+}
+
+.skole {
+    margin-top: -40px;
+    margin-bottom: 20px;
+}
+
+.om_mig {
+     font-family: helvetica; sans-serif;
+    font-size: 0.9em;
+    margin-left: 300px;
+    margin-right: 300px;
+}
