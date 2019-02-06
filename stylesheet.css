@@ -100,6 +100,24 @@
     background-image: url(Img/splatter.jpg);
 }
 
+/* LINKS */
+a:link {
+    color: black;
+    text-decoration-line: none;
+}
+a:visited {
+    color: black;
+    text-decoration-line: none;
+}
+a:hover {
+     color: black;
+    text-decoration-line: none;
+}
+a:active {
+      color: black;
+    text-decoration-line: none;
+}
+
 /* FONTE OG ANDET */
 
 .overskrift {
